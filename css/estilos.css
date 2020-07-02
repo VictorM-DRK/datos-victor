@@ -18,7 +18,7 @@
 }
 .ITJO {
     vertical-align: text-bottom;
-    margin: 30px 35px 0px 30px;
+    margin: 55px 35px 0px 30px;
     border: Navy 5px solid;
     border-image-slice: 5;
     padding: 1px;
@@ -131,4 +131,7 @@ div.barra-contacto {
 }
 body {
     background-image: url("../imagenes/FondoVerdeC.jpg");
+}
+hr {
+    border: 2px solid Navy;
 }
