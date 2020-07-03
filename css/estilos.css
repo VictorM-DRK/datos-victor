@@ -131,10 +131,21 @@ div.barra-contacto {
 }
 body {
     background-image: url("../imagenes/FondoVerdeC.jpg");
+    margin: 0;
+    padding: 0;
 }
 hr {
     border: 2px solid Navy;
 }
 h3 {
     text-decoration: underline;
+}
+header {
+    position: static;
+    width: 100%;
+    color: whitesmoke;
+    background-color: rgba(21, 5, 65, 1);
+}
+h1 {
+    margin: 0;
 }
