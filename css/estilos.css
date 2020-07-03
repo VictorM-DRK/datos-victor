@@ -135,3 +135,6 @@ body {
 hr {
     border: 2px solid Navy;
 }
+h3 {
+    text-decoration: underline;
+}
