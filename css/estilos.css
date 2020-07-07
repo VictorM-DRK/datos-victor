@@ -139,6 +139,16 @@ div.barra-contacto {
     text-align: justify;
     color: whitesmoke;
 }
+p.notacontacto {
+    font-size: 150%;
+    background-color: rgba(21, 5, 65, 0.8);
+    color: whitesmoke;
+    text-decoration: solid;
+    text-align: center;
+}
+a.vinculo {
+    color: yellowgreen;
+}
 body {
     background-image: url("../imagenes/FondoVerdeC.jpg");
     margin: 0;
