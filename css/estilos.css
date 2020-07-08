@@ -103,7 +103,6 @@ img.fotoyo {
     color: whitesmoke;
     font-size: 130%;
     text-align: justify;
-    line-height: 28px;
 }
 h1 {
     text-align: center;
@@ -149,6 +148,22 @@ p.notacontacto {
 }
 a.vinculo {
     color: yellowgreen;
+}
+.iujo {
+    margin-left: 30px;
+}
+p.itjo {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.estelio {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+p.ciexpro {
+    margin-left: 30px;
+    margin-right: 30px;
+    
 }
 body {
     background-image: url("../imagenes/FondoVerdeC.jpg");
