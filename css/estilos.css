@@ -111,6 +111,7 @@ h1 {
 h2 {
     margin-left: 30px;
     color: whitesmoke;
+    text-decoration: underline;
 }
 div.barra {
     text-align: center;
@@ -132,7 +133,7 @@ div.barra-contacto {
     text-align: left;
     font-size: 140%;
 }
-.datos {
+p.datos {
     font-size: 130%;
     margin-top: 10px;
     margin-left: 30px;
