@@ -8,6 +8,11 @@ img.instagram {
     height: 30px;
     padding: 5px;
 }
+img.github {
+    float: right;
+    height: 30px;
+    padding: 5px;
+}
 img.fotoyo {
     vertical-align: text-top;
     border: Navy 5px solid;
