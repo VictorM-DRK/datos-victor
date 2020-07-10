@@ -117,23 +117,23 @@ h2 {
     color: whitesmoke;
     text-decoration: underline;
 }
-div.barra {
+nav.barra {
     text-align: center;
     font-size: 140%;
 }
-div.barra-educacion {
+nav.barra-educacion {
     text-align: left;
     font-size: 140%;
 }
-div.barra-conocimientos {
+nav.barra-conocimientos {
     text-align: left;
     font-size: 140%;
 }
-div.barra-experiencia {
+nav.barra-experiencia {
     text-align: left;
     font-size: 140%;
 }
-div.barra-contacto {
+nav.barra-contacto {
     text-align: left;
     font-size: 140%;
 }
