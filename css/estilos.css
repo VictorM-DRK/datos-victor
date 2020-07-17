@@ -101,10 +101,30 @@ img.CIEXPRO {
     font-size: 140%;
 }
 #seccion-conocimientos {
-    background-color: rgba(21, 5, 65, 0.8);
+    margin: auto;
     color: whitesmoke;
-    font-size: 140%;
+    font-size: 120%;
     text-align: justify;
+    width: 100%;
+    display: flex;
+}
+p.conocimientosT {
+    padding: 3 3 3 0px; 
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 150%;
+    margin: 0px;
+}
+div.conocimientosA {
+    width: 50%; 
+    float: left;
+    padding: 2px 0px;
+    background-color: rgba(21, 5, 65, 0.8);
+}
+div.conocimientosB {
+    width: 50%; 
+    float: left;
+    background-color: rgba(21, 5, 65, 0.8);
 }
 #secc-ITJO {
     background-color: rgba(21, 5, 65, 0.8);
@@ -153,6 +173,7 @@ nav.barra-conocimientos {
 nav.barra-experiencia {
     text-align: left;
     font-size: 140%;
+    clear: both;
 }
 nav.barra-contacto {
     text-align: left;
